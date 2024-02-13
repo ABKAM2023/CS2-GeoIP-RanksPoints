@@ -1,3 +1,8 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/ABKAM2023/CS2-GeoIP-RanksPoints?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/ABKAM2023/CS2-GeoIP-RanksPoints?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/ABKAM2023/CS2-GeoIP-RanksPoints?style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/ABKAM2023/CS2-GeoIP-RanksPoints/total?style=for-the-badge)
+
 # RanksPoints Module - GeoIP
 # EN
 **RanksPoints Module - GeoIP** - is an addon designed for integration with the Ranks Points plugin, and it also ensures compatibility with other plugins using the database from Levels Ranks. This module is responsible for collecting data on players' locations, including their IP addresses, countries, regions, and cities. The gathered information is exclusively accessible through the Web Interface.
